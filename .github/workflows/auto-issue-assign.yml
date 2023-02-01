@@ -3,7 +3,7 @@ name: Automatic Issue Assignment
 on:
   schedule: 
     # cron job which runs every 5 minutes
-    - cron: '*/5 * * * *'
+    - cron: '* * * * */5'
   issue_comment:
     # Upon issue creation
     types: [created]
