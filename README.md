@@ -98,15 +98,3 @@ The recommended IDE for Android development is [Android Studio](https://develope
 
 Avoid adding Android Studio's specific configuration files, such as .iml files to the version control system as these often contain configurations specific to your local machine, which won't work for your colleagues.
 
-## Contributors:
-### Credits goes to these people:✨
-
-<table>
-<tr>
-<td>
-   <a href="https://github.com/krayong/Study_Partner/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=krayong/Study_Partner" />
-</a>
-</td>
-</tr>
-</table>
